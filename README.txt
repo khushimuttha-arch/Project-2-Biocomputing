@@ -11,8 +11,7 @@ Steps Performed
 1. Created a new GitHub repository named `Project-2-Biocomputing`.
 2. Created a folder Biocomputing_project2. Then, i ran git init command, which added a .git in this folder, thereby turning it into local git repository. So that system  recognises this folder as local git repository and can perform further github related operations 
 3. Copied all files in the folder to add them to github repository.
-5. Added all files to staging by using command:`
-   git add .
+5. Added all files to staging by using command: git add .
 6. Committed the changes:
    git commit -m "Added scripts and output files".
 7. Pushed the files to GitHub:
