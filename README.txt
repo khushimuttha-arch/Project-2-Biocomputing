@@ -1,6 +1,6 @@
 Project-2-Biocomputing
 
-This repository contains data, scripts, and results for Project-1 in Biocomputing.
+This repository contains data, scripts, and results for Project-2 in Biocomputing.
 
 Repository Structure
  python_script/ - contains all python scripts used in the project
